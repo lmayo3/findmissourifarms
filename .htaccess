@@ -3,3 +3,23 @@
 RedirectMatch 301 (?i)/lincoln https://www.findmissouriproperty.com?utm_campaign=lincolnpostcard
 #
 RedirectMatch 301 (?i)/ https://findmissouriproperty.com
+#
+RedirectMatch 301 (?i)/pike https://www.findmissouriproperty.com?utm_campaign=pikepostcard
+#
+RedirectMatch 301 (?i)/montgomery https://www.findmissouriproperty.com?utm_campaign=montgomerypostcard
+#
+#RedirectMatch 301 (?i)/stcharles https://www.findmissouriproperty.com?utm_campaign=stcharlespostcard
+#
+#RedirectMatch 301 (?i)/ralls https://www.findmissouriproperty.com?utm_campaign=rallspostcard
+#
+RedirectMatch 301 (?i)/warren https://www.findmissouriproperty.com?utm_campaign=warrenpostcard
+#
+RedirectMatch 301 (?i)/callaway https://www.findmissouriproperty.com?utm_campaign=callawaypostcard
+#
+RedirectMatch 301 (?i)/gasconade https://www.findmissouriproperty.com?utm_campaign=gasconadepostcard
+#
+RedirectMatch 301 (?i)/frandklin https://www.findmissouriproperty.com?utm_campaign=franklinpostcard
+#
+RedirectMatch 301 (?i)/miller https://www.findmissouriproperty.com?utm_campaign=millerpostcard
+#
+RedirectMatch 301 (?i)/morgan https://www.findmissouriproperty.com?utm_campaign=morganpostcard
