@@ -1,0 +1,5 @@
+#RedirectMatch 301 (?i) makes a case-insensitive url match
+#
+RedirectMatch 301 (?i)/lincoln https://www.findmissouriproperty.com/?utm_campaign=lincolnpostcard
+#
+RedirectMatch 301 (?i)/ https://findmissourifarms.com
