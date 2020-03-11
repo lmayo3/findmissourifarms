@@ -2,4 +2,4 @@
 #
 RedirectMatch 301 (?i)/lincoln https://www.findmissouriproperty.com/?utm_campaign=lincolnpostcard
 #
-RedirectMatch 301 (?i)/ https://findmissourifarms.com
+RedirectMatch 301 (?i)/ https://findmissouriproperty.com
