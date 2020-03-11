@@ -2,8 +2,6 @@
 #
 RedirectMatch 301 (?i)/lincoln https://www.findmissouriproperty.com?utm_campaign=lincolnpostcard
 #
-RedirectMatch 301 (?i)/ https://findmissouriproperty.com
-#
 RedirectMatch 301 (?i)/pike https://www.findmissouriproperty.com?utm_campaign=pikepostcard
 #
 RedirectMatch 301 (?i)/montgomery https://www.findmissouriproperty.com?utm_campaign=montgomerypostcard
@@ -23,3 +21,5 @@ RedirectMatch 301 (?i)/frandklin https://www.findmissouriproperty.com?utm_campai
 RedirectMatch 301 (?i)/miller https://www.findmissouriproperty.com?utm_campaign=millerpostcard
 #
 RedirectMatch 301 (?i)/morgan https://www.findmissouriproperty.com?utm_campaign=morganpostcard
+#
+RedirectMatch 301 (?i)/ https://findmissouriproperty.com
